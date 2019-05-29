@@ -86,7 +86,7 @@ def get_invoice_data(file_path):
     data_piaoxiaomi = piaoxiaomi_api(image)
     return data_piaoxiaomi
 
-
+# # 注意使用绝对路径
 # # 注意使用绝对路径
 # pic_path = '/Users/mengfanjie/Desktop/image/IMG_6957.JPG'
 # # pic_path = '/Users/mengfanjie/Desktop/1.png'  # 非发票图片
